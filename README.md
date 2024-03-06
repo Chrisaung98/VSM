@@ -1,6 +1,4 @@
 # Visitor Management System
-The Visitor Management System is a web-based application designed to streamline the process of managing visitors entering and exiting a facility. It provides an efficient and secure way to register, track, and manage visitors while enhancing the overall security of the premises.
-
 Key Features:
 
 1. Visitor Registration:
